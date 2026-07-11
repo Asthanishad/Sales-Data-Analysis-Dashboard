@@ -268,10 +268,10 @@ This project provides:
 B.Tech CSE (Data Science)
 
 GitHub:
-https://github.com/swati-dixit123
+https://github.com/Asthanishad
 
 LinkedIn:
-*(Add your LinkedIn profile URL here)*
+https://www.linkedin.com/in/astha-nishad-b10379329/
 
 ---
 
