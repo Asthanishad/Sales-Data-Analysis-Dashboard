@@ -5,6 +5,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange)
 
+## 🚀 Live Demo
+
+Explore the interactive dashboard here:
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://astha-sales-dashboard.streamlit.app)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://astha-sales-dashboard.streamlit.app)
 
@@ -131,7 +135,7 @@ Sales_Data_Analysis/
 
 ## 🏠 Dashboard Home
 
-> Replace the image below with **dashboard_home.png**
+Interactive dashboard displaying KPIs and business metrics.
 
 ![Dashboard Home](Screenshots/dashboard_home.png)
 
@@ -139,11 +143,15 @@ Sales_Data_Analysis/
 
 ## 📈 Sales & Profit Trend
 
+Shows monthly sales and profit trends over time.
+
 ![Sales Trend](Screenshots/sales_trend.png)
 
 ---
 
 ## 📦 Category & Product Analysis
+
+Compares category-wise and product-wise business performance.
 
 ![Category Analysis](Screenshots/category_analysis.png)
 
@@ -151,11 +159,15 @@ Sales_Data_Analysis/
 
 ## 🌍 Regional Performance
 
+Analyzes sales and profit across different regions and states.
+
 ![Regional Performance](Screenshots/regional_analysis.png)
 
 ---
 
 ## 🚚 Logistics & Statistical Analysis
+
+Highlights shipping performance and statistical insights.
 
 ![Logistics Analysis](Screenshots/logistics_analysis.png)
 
@@ -243,16 +255,16 @@ http://localhost:8501
 
 # 📈 Results
 
-This project provides:
+This project successfully demonstrates:
 
-- Interactive Business Dashboard
-- Business KPI Monitoring
-- Sales Performance Analysis
-- Customer Insights
+- End-to-end Data Analysis Workflow
+- Data Cleaning & Feature Engineering
+- 32 Interactive Visualizations
+- Interactive KPI Dashboard
+- Business Intelligence Reporting
+- Sales & Profit Analysis
 - Regional Performance Analysis
-- Product Performance Analysis
-- Discount Impact Analysis
-- Actionable Business Recommendations
+- Actionable Business Insights
 
 ---
 
@@ -262,11 +274,9 @@ This project provides:
 
 B.Tech CSE (Data Science)
 
-GitHub:
-https://github.com/Asthanishad
+🔗 GitHub: https://github.com/Asthanishad
 
-LinkedIn:
-https://www.linkedin.com/in/astha-nishad-b10379329/
+💼 LinkedIn: https://www.linkedin.com/in/astha-nishad-b10379329
 
 ---
 
