@@ -37,8 +37,3 @@ conda-env/
 .streamlit/
 *.log
 
-# Project specific
-*.png
-*.jpg
-*.jpeg
-*.svg
