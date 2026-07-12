@@ -207,13 +207,13 @@ Sales_Data_Analysis/
 Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Asthanishad/Sales-Data-Analysis-Dashboard.git
 ```
 
 Move into the project folder
 
 ```bash
-cd Sales_Data_Analysis
+cd Sales-Data-Analysis-Dashboard
 ```
 
 Install dependencies
