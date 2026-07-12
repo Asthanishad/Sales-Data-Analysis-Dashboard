@@ -5,6 +5,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://astha-sales-dashboard.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://astha-sales-dashboard.streamlit.app)
+
 An end-to-end **Sales Data Analysis Dashboard** built using **Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit**. This project analyzes the **Sample Superstore** dataset to uncover sales trends, profitability, customer behavior, and business insights through Exploratory Data Analysis (EDA) and an interactive dashboard.
 
 ---
