@@ -136,15 +136,11 @@ Sales_Data_Analysis/
 
 ## 📈 Sales & Profit Trend
 
-> Replace the image below with **sales_trend.png**
-
 ![Sales Trend](Screenshots/sales_trend.png)
 
 ---
 
 ## 📦 Category & Product Analysis
-
-> Replace the image below with **category_analysis.png**
 
 ![Category Analysis](Screenshots/category_analysis.png)
 
@@ -152,15 +148,11 @@ Sales_Data_Analysis/
 
 ## 🌍 Regional Performance
 
-> Replace the image below with **regional_analysis.png**
-
 ![Regional Performance](Screenshots/regional_analysis.png)
 
 ---
 
 ## 🚚 Logistics & Statistical Analysis
-
-> Replace the image below with **logistics_analysis.png**
 
 ![Logistics Analysis](Screenshots/logistics_analysis.png)
 
